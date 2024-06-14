@@ -23,15 +23,15 @@
 
 
 <!--Intro start-->
-- 🔭 i’m currently **open to work**
+- 🔭 I'm currently **open to work**
 
-- 🌱 I’m currently **working and learning like freelance**
+- 🌱 I'm currently **working and learning like freelance**
 
 - ☁️ I've keen interest in cloud computing. So, I'm learning **AWS**
 
 - 📝 I regularly share content on [Linkedin](https://www.linkedin.com/in/nahuel-guillermo-viera-a104a52a5/)
 
-- 💬 Ask me about **'Clean code', 'Code architecture', react, react-native, JavaScript, Django, SQL, AWS**
+- 💬 Ask me about **'Clean code', 'Code architecture', Java, JDK, Spring, SQL, AWS**
 
 - 📫 Feel free to reach me out **nahuelguillermoviera@gmail.com**
 
@@ -60,9 +60,12 @@
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=NahuelGuillermoViera&theme=algolia&row=1&column=7&margin-h=15&margin-w=5&" alt="TROPHY" />
     </a>
 </div>
-<!--- trophy (start) -->
-
-
+<br />
+<div align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="center" width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelGuillermoViera&layout=compact&theme=algolia" alt="Top Langs" />
+    </a>
+</div>
 </p>        
 <!--- stats (end) -->
 
@@ -76,7 +79,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,firebase,github,html,java,js,linux,postgresql,nextjs,nodejs,django,py,react,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,idea,docker,postman,aws,git,github&perline=14" />
   </a>
 </p>
 
