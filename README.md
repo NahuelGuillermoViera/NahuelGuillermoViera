@@ -23,8 +23,6 @@
 
 
 <!--Intro start-->
-- 🔭 I'm currently **open to work**
-
 - 🌱 I'm currently **working and learning like freelance**
 
 - ☁️ I've keen interest in cloud computing. So, I'm learning **AWS**
